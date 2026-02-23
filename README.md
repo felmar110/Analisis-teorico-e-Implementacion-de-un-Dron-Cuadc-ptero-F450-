@@ -134,30 +134,30 @@ Solución implementada:
 
 ## 🗂️ Estructura del Repositorio
 
-/
-├──📂docs/
-│   ├──📂 analisis_aerodinamico/
-│   │   ├── Casa_calidad.pdf
-│   │   └──analisis_aerodinamico.xlsx
-│   ├──📂 ansys_analisis_estructural/
-│   │   ├──📂dp0/
-│   │   ├──📂session_files/
-│   │   └──ANSYS DRON.wbpj
-│   ├──📂 matlab_control/
-│   │   ├──📂Cuadrotor_control/
-│   │   └──Control Dron MATLAB.pdf
-│   ├──📂 hardware_integracion/
-│   │   ├──📂accesorios/
-│   │   ├──📂tren_aterrizaje/
-│   │   └──RFD900x_DataSheet.pdf
-│   └──📂 pruebas_vuelo/
-│   │   ├──PID ultimos parametros DRON DJI F450.png
-│   │   ├──Prueba_1_4_vuelta.waypoints
-│   │   ├──prueba1_cajica.waypoints
-│   │   └──prueba2_cajica.waypoints
-│   ├──📂 imagenes/
-│   └──📂 videos/
-└──README.md
+docs/
+├── analisis_aerodinamico/
+│   ├── Casa_calidad.pdf
+│   └── analisis_aerodinamico.xlsx
+├── ansys_analisis_estructural/
+│   ├── dp0/
+│   ├── session_files/
+│   └── ANSYS_DRON.wbpj
+├── matlab_control/
+│   ├── Cuadrotor_control/
+│   └── Control_Dron_MATLAB.pdf
+├── hardware_integracion/
+│   ├── accesorios/
+│   ├── tren_aterrizaje/
+│   └── RFD900x_DataSheet.pdf
+├── pruebas_vuelo/
+│   ├── PID_ultimos_parametros_DRON_DJI_F450.png
+│   ├── Prueba_1_4_vuelta.waypoints
+│   ├── prueba1_cajica.waypoints
+│   └── prueba2_cajica.waypoints
+├── imagenes/
+└── videos/
+
+README.md
 
 ---
 
@@ -195,15 +195,16 @@ Este dron está diseñado como plataforma para:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 Proyecto desarrollado por:
 
-**Andres Marcillo** 
-**Sebastián Monrroy**
-**Juan Esteban Bolivar**
-**Juan Choconta**
-**Juan Vivas**
+-**Andres Marcillo** 
+-**Sebastián Monrroy**
+-**Juan Bolivar**
+-**Juan Choconta**
+-**Juan Vivas**
+
 Ingeniería Mecatrónica  
 
 ---
@@ -229,3 +230,4 @@ El proyecto permitió integrar conocimientos de:
 Consolidando una solución funcional validada mediante simulación y pruebas reales.
 
 ---
+
