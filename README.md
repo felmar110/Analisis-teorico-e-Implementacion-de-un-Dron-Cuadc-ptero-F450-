@@ -138,41 +138,41 @@ docs/
 
 ├── analisis_aerodinamico/
 
-│   ├── Casa_calidad.pdf
+│     ├── Casa_calidad.pdf
 
-│   └── analisis_aerodinamico.xlsx
+│     └── analisis_aerodinamico.xlsx
 
 ├── ansys_analisis_estructural/
 
-│   ├── dp0/
+│     ├── dp0/
 
-│   ├── session_files/
+│     ├── session_files/
 
-│   └── ANSYS_DRON.wbpj
+│     └── ANSYS_DRON.wbpj
 
 ├── matlab_control/
 
-│   ├── Cuadrotor_control/
+│     ├── Cuadrotor_control/
 
-│   └── Control_Dron_MATLAB.pdf
+│     └── Control_Dron_MATLAB.pdf
 
 ├── hardware_integracion/
 
-│   ├── accesorios/
+│     ├── accesorios/
 
-│   ├── tren_aterrizaje/
+│     ├── tren_aterrizaje/
 
-│   └── RFD900x_DataSheet.pdf
+│     └── RFD900x_DataSheet.pdf
 
 ├── pruebas_vuelo/
 
-│   ├── PID_ultimos_parametros_DRON_DJI_F450.png
+│     ├── PID_ultimos_parametros_DRON_DJI_F450.png
 
-│   ├── Prueba_1_4_vuelta.waypoints
+│     ├── Prueba_1_4_vuelta.waypoints
 
-│   ├── prueba1_cajica.waypoints
+│     ├── prueba1_cajica.waypoints
 
-│   └── prueba2_cajica.waypoints
+│     └── prueba2_cajica.waypoints
 
 ├── imagenes/
 
@@ -255,5 +255,6 @@ El proyecto permitió integrar conocimientos de:
 Consolidando una solución funcional validada mediante simulación y pruebas reales.
 
 ---
+
 
 
